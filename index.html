@@ -1,41 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dijital Web Sitesi</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neve FSE</title>
+    <meta name="description" content="Home Patterns Blog Contact Create and grow your unique website today Build a website for your business or brand, with Neve FSE Learn More Contact us" />
+  </head>
+  <body>
     <header>
-        <h1>Hoş Geldiniz!</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Anasayfa</a></li>
-                <li><a href="#">Hakkımızda</a></li>
-                <li><a href="#">Hizmetlerimiz</a></li>
-                <li><a href="#">İletişim</a></li>
-            </ul>
-        </nav>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#patterns">Patterns</a></li>
+          <li><a href="#blog">Blog</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
     </header>
-
     <main>
-        <section id="welcome-section">
-            <h2>Biz Kimiz?</h2>
-            <p>Web sitesi hakkında kısa bir açıklama.</p>
-        </section>
-
-        <section id="services-section">
-            <h2>Hizmetlerimiz</h2>
-            <p>Buraya hizmetlerinizle ilgili bilgiler gelebilir.</p>
-        </section>
+      <section id="home">
+        <h1>Create and grow your unique website today</h1>
+        <p>Build a website for your business or brand, with Neve FSE</p>
+        <a href="#" class="button">Learn More</a>
+      </section>
+      <section id="patterns">
+        <h2>Patterns</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.</p>
+      </section>
+      <section id="blog">
+        <h2>Blog</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.</p>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.</p>
+        <form action="#" method="post"><label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" required></textarea>
+          <input type="submit" value="Send" />
+        </form>
+      </section>
     </main>
-
     <footer>
-        <p>Telif Hakkı &copy; 2024 Dijital Web Sitesi</p>
+      <p>&copy; 2023 Neve FSE</p>
     </footer>
-</body>
-
+  </body>
 </html>
