@@ -1,20 +1,20 @@
-# Neve FSE #
-**Contributors:** [themeisle](https://profiles.wordpress.org/themeisle/)  
-**Tags:** block-patterns  
-**Requires at least:** 5.5  
-**Tested up to:** 6.4  
-**Stable tag:** trunk  
-**Requires PHP:** 7.0  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+=== Neve FSE ===
+Contributors: themeisle
+Tags: block-patterns
+Requires at least: 5.5
+Tested up to: 6.4
+Stable tag: trunk
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description ##
+== Description ==
 Neve FSE is a modern, minimalistic theme that is fully compatible with full-site-editing. This powerful theme offers a range of patterns that make it perfect for simple design is suitable for a wide range of purposes, including blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It also comes with several style variations to suit your unique aesthetic.
-## Copyright ##
+== Copyright ==
 Neve FSE WordPress theme, Copyright 2023 Themeisle
 Neve FSE is distributed under the terms of the GNU GPLv2 or later
 
-## Changelog ##
+== Changelog ==
 
 ##### [Version 1.0.8](https://github.com/Codeinwp/neve-fse/compare/v1.0.7...v1.0.8) (2024-03-11)
 
@@ -116,7 +116,7 @@ Initial Release
 - Initial release
 
 
-## Resources ##
+== Resources ==
 All images are licensed under CC0.
 
 Patterns resources:
